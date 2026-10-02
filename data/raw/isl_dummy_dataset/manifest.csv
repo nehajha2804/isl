@@ -1,0 +1,49 @@
+file,face_id,label,type,pair_id,variant,gloss_sequence,nonmanual_marker,duration_s,fps,width,height
+face1/HELLO_face1.mp4,face1,HELLO,gesture,,isolated_sign,HELLO,neutral,3.3,30,1280,720
+face1/THANK_YOU_face1.mp4,face1,THANK YOU,gesture,,isolated_sign,THANK YOU,neutral,3.3,30,1280,720
+face1/YES_face1.mp4,face1,YES,gesture,,isolated_sign,YES,neutral,3.3,30,1280,720
+face1/NO_face1.mp4,face1,NO,gesture,,isolated_sign,NO,neutral,3.3,30,1280,720
+face1/PLEASE_face1.mp4,face1,PLEASE,gesture,,isolated_sign,PLEASE,neutral,3.3,30,1280,720
+face1/SORRY_face1.mp4,face1,SORRY,gesture,,isolated_sign,SORRY,neutral,3.3,30,1280,720
+face1/NAME_face1.mp4,face1,NAME,gesture,,isolated_sign,NAME,neutral,3.3,30,1280,720
+face1/GOOD_face1.mp4,face1,GOOD,gesture,,isolated_sign,GOOD,neutral,3.3,30,1280,720
+face1/HELP_face1.mp4,face1,HELP,gesture,,isolated_sign,HELP,neutral,3.3,30,1280,720
+face1/WATER_face1.mp4,face1,WATER,gesture,,isolated_sign,WATER,neutral,3.3,30,1280,720
+face1/PAIR1_STATEMENT_YOU-GOOD_face1.mp4,face1,PAIR1_STATEMENT_YOU-GOOD,sentence,PAIR1_question_eyebrow_raise,statement,YOU GOOD,neutral,4.3,30,1280,720
+face1/PAIR1_YNQUESTION_YOU-GOOD_face1.mp4,face1,PAIR1_YNQUESTION_YOU-GOOD,sentence,PAIR1_question_eyebrow_raise,yes_no_question,YOU GOOD,eyebrow raise (+head tilt),4.3,30,1280,720
+face1/PAIR2_AFFIRMATIVE_ME-GOOD_face1.mp4,face1,PAIR2_AFFIRMATIVE_ME-GOOD,sentence,PAIR2_negation_headshake,affirmative,ME GOOD,neutral,4.3,30,1280,720
+face1/PAIR2_NEGATED_ME-GOOD-NO_face1.mp4,face1,PAIR2_NEGATED_ME-GOOD-NO,sentence,PAIR2_negation_headshake,negated,ME GOOD NO,headshake,5.8,30,1280,720
+face1/PAIR3_STATEMENT_WATER-HERE_face1.mp4,face1,PAIR3_STATEMENT_WATER-HERE,sentence,PAIR3_wh_brow_furrow,statement,WATER HERE,neutral,4.3,30,1280,720
+face1/PAIR3_WHQUESTION_WATER-WHERE_face1.mp4,face1,PAIR3_WHQUESTION_WATER-WHERE,sentence,PAIR3_wh_brow_furrow,wh_question,WATER WHERE,brow furrow (+head forward),4.3,30,1280,720
+face2/HELLO_face2.mp4,face2,HELLO,gesture,,isolated_sign,HELLO,neutral,3.3,30,1280,720
+face2/THANK_YOU_face2.mp4,face2,THANK YOU,gesture,,isolated_sign,THANK YOU,neutral,3.3,30,1280,720
+face2/YES_face2.mp4,face2,YES,gesture,,isolated_sign,YES,neutral,3.3,30,1280,720
+face2/NO_face2.mp4,face2,NO,gesture,,isolated_sign,NO,neutral,3.3,30,1280,720
+face2/PLEASE_face2.mp4,face2,PLEASE,gesture,,isolated_sign,PLEASE,neutral,3.3,30,1280,720
+face2/SORRY_face2.mp4,face2,SORRY,gesture,,isolated_sign,SORRY,neutral,3.3,30,1280,720
+face2/NAME_face2.mp4,face2,NAME,gesture,,isolated_sign,NAME,neutral,3.3,30,1280,720
+face2/GOOD_face2.mp4,face2,GOOD,gesture,,isolated_sign,GOOD,neutral,3.3,30,1280,720
+face2/HELP_face2.mp4,face2,HELP,gesture,,isolated_sign,HELP,neutral,3.3,30,1280,720
+face2/WATER_face2.mp4,face2,WATER,gesture,,isolated_sign,WATER,neutral,3.3,30,1280,720
+face2/PAIR1_STATEMENT_YOU-GOOD_face2.mp4,face2,PAIR1_STATEMENT_YOU-GOOD,sentence,PAIR1_question_eyebrow_raise,statement,YOU GOOD,neutral,4.3,30,1280,720
+face2/PAIR1_YNQUESTION_YOU-GOOD_face2.mp4,face2,PAIR1_YNQUESTION_YOU-GOOD,sentence,PAIR1_question_eyebrow_raise,yes_no_question,YOU GOOD,eyebrow raise (+head tilt),4.3,30,1280,720
+face2/PAIR2_AFFIRMATIVE_ME-GOOD_face2.mp4,face2,PAIR2_AFFIRMATIVE_ME-GOOD,sentence,PAIR2_negation_headshake,affirmative,ME GOOD,neutral,4.3,30,1280,720
+face2/PAIR2_NEGATED_ME-GOOD-NO_face2.mp4,face2,PAIR2_NEGATED_ME-GOOD-NO,sentence,PAIR2_negation_headshake,negated,ME GOOD NO,headshake,5.8,30,1280,720
+face2/PAIR3_STATEMENT_WATER-HERE_face2.mp4,face2,PAIR3_STATEMENT_WATER-HERE,sentence,PAIR3_wh_brow_furrow,statement,WATER HERE,neutral,4.3,30,1280,720
+face2/PAIR3_WHQUESTION_WATER-WHERE_face2.mp4,face2,PAIR3_WHQUESTION_WATER-WHERE,sentence,PAIR3_wh_brow_furrow,wh_question,WATER WHERE,brow furrow (+head forward),4.3,30,1280,720
+face3/HELLO_face3.mp4,face3,HELLO,gesture,,isolated_sign,HELLO,neutral,3.3,30,1280,720
+face3/THANK_YOU_face3.mp4,face3,THANK YOU,gesture,,isolated_sign,THANK YOU,neutral,3.3,30,1280,720
+face3/YES_face3.mp4,face3,YES,gesture,,isolated_sign,YES,neutral,3.3,30,1280,720
+face3/NO_face3.mp4,face3,NO,gesture,,isolated_sign,NO,neutral,3.3,30,1280,720
+face3/PLEASE_face3.mp4,face3,PLEASE,gesture,,isolated_sign,PLEASE,neutral,3.3,30,1280,720
+face3/SORRY_face3.mp4,face3,SORRY,gesture,,isolated_sign,SORRY,neutral,3.3,30,1280,720
+face3/NAME_face3.mp4,face3,NAME,gesture,,isolated_sign,NAME,neutral,3.3,30,1280,720
+face3/GOOD_face3.mp4,face3,GOOD,gesture,,isolated_sign,GOOD,neutral,3.3,30,1280,720
+face3/HELP_face3.mp4,face3,HELP,gesture,,isolated_sign,HELP,neutral,3.3,30,1280,720
+face3/WATER_face3.mp4,face3,WATER,gesture,,isolated_sign,WATER,neutral,3.3,30,1280,720
+face3/PAIR1_STATEMENT_YOU-GOOD_face3.mp4,face3,PAIR1_STATEMENT_YOU-GOOD,sentence,PAIR1_question_eyebrow_raise,statement,YOU GOOD,neutral,4.3,30,1280,720
+face3/PAIR1_YNQUESTION_YOU-GOOD_face3.mp4,face3,PAIR1_YNQUESTION_YOU-GOOD,sentence,PAIR1_question_eyebrow_raise,yes_no_question,YOU GOOD,eyebrow raise (+head tilt),4.3,30,1280,720
+face3/PAIR2_AFFIRMATIVE_ME-GOOD_face3.mp4,face3,PAIR2_AFFIRMATIVE_ME-GOOD,sentence,PAIR2_negation_headshake,affirmative,ME GOOD,neutral,4.3,30,1280,720
+face3/PAIR2_NEGATED_ME-GOOD-NO_face3.mp4,face3,PAIR2_NEGATED_ME-GOOD-NO,sentence,PAIR2_negation_headshake,negated,ME GOOD NO,headshake,5.8,30,1280,720
+face3/PAIR3_STATEMENT_WATER-HERE_face3.mp4,face3,PAIR3_STATEMENT_WATER-HERE,sentence,PAIR3_wh_brow_furrow,statement,WATER HERE,neutral,4.3,30,1280,720
+face3/PAIR3_WHQUESTION_WATER-WHERE_face3.mp4,face3,PAIR3_WHQUESTION_WATER-WHERE,sentence,PAIR3_wh_brow_furrow,wh_question,WATER WHERE,brow furrow (+head forward),4.3,30,1280,720
